@@ -29,7 +29,6 @@
   <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/>
 <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/c++%20-%2314354C.svg?&style=for-the-badge&logo=c++&logoColor=white"/>
-  <img src="https://img.shields.io/badge/c#%20-%2314354C.svg?&style=for-the-badge&logo=c#&logoColor=white"/>
 
 
 #### Frameworks  i am using :
@@ -51,7 +50,7 @@
 
 #### IDE :
 <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
-<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
+<img src="https://img.shields.io/badge/Visual_Studio-0078D4?style=for-the-badge&logo=visual%20studio&logoColor=white"/>
 <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"/>
 <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252"/>
 
