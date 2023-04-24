@@ -1,11 +1,11 @@
 # Hi, I am John Samir 👋
 
-## I am a Comoputer Engineering Student 🔥 and a Jounir Flutter Dev  
+## I am a Computer Engineering Student 🔥 and a Junior  Flutter Dev  
 
 - 🌱 I’m currently learning  and Developing Mobile Application with Flutter and Kotlin.
 - 💬 Ask me about: Firebase, OOP, Kotlin, XML, Android, Mobile, RESTful APIs, Database, UI, UX, Flutter,Version Control.
 - 📫 How to reach me: catch, and follow me from the footer links below 👇 in addition to follow me here.
-- ⚡ Fun fact: i Love 😺 🌍 ❄️ 🍔 🍤 ⚽️ 🎧 🎬 🎤 ✈️ 💻 📱 📸  
+- ⚡ Fun fact: i Love 😺 🌍 ❄️ 🍔 🎧 🎬 🎤 ✈️ 💻 📱 📸  
 -->
 <details>
   <summary>Some interesting facts about me!</summary>
@@ -28,7 +28,6 @@
 <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/>
 <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/c++%20-%2314354C.svg?&style=for-the-badge&logo=c++&logoColor=white"/>
 
 
 #### Frameworks  i am using :
