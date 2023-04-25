@@ -1,6 +1,6 @@
 # Hi, I am John Samir 👋
 
-## I am a Computer Engineering Student 🔥 and a Junior  Flutter Dev  
+## I am a Computer Engineering Student 🔥  
 
 - 🌱 I’m currently learning  and Developing Mobile Application with Flutter and Kotlin.
 - 💬 Ask me about: Firebase, OOP, Kotlin, XML, Android, Mobile, RESTful APIs, Database, UI, UX, Flutter,Version Control.
