@@ -1,4 +1,4 @@
-# Hi, I am John Samir 👋
+# Hi, I am John S. Wassef 👋
 
 ## I am a Machine Learning Engineer 🔥  
 
