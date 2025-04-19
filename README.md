@@ -78,5 +78,3 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/John-Wassef/John-Wassef/output/snake.svg" alt="Snake animation" />
-
-is this a good readme for me ?
