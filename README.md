@@ -1,6 +1,6 @@
 # Hi, I am John S. Wassef 👋
 
-## I am a Data Engineer 🔥  
+## I am a Big Data Engineer 🔥  
 
 - 🌱 I’m currently designing, building, and optimizing scalable data pipelines and solutions for Big Data, Data Warehousing, and NoSQL databases.  
 - 💬 Ask me about: Python, SQL, NoSQL, Hadoop, Kafka, Apache Spark, Airflow, AWS, ETL Pipelines, Data Warehousing, Big Data, Cloud Platforms, and Database Optimization.  
